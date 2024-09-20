@@ -13,7 +13,7 @@ export function MainCart(){
         ">
             <section><img id="charizard" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full//004.png" alt="" /><img id="ash" src="https://upload.wikimedia.org/wikipedia/en/e/e4/Ash_Ketchum_Journeys.png" alt="" /><img id="pikachu" src="https://upload.wikimedia.org/wikipedia/en/a/a6/Pok%C3%A9mon_Pikachu_art.png" alt="" /></section>
             <h6 id="haveaccount">Have an account?</h6>
-            <p id="login">Log in to check out faster.</p>
+            <p id="login">Log in to check out faster!</p>
         </div>
        
 
